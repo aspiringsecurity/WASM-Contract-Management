@@ -1,5 +1,6 @@
-# WASM lottery project
-This contract is an example for the lottery implementation in wasm.
+# WASM Contract Management Project
+
+Quotation Management built using WASM
 
 ### License
 Apache 2.0
@@ -11,8 +12,8 @@ Apache 2.0
 - Use this [instructions](https://use.ink/getting-started/setup) to setup your ink!/Rust environment
 
 Clone project
-```sh
-git clone git@github.com:swanky-dapps/wasm-lottery.git
+```
+git clone repo-name
 ```
 
 Build
